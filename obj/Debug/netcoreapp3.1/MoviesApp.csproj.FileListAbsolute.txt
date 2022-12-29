@@ -1,0 +1,205 @@
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\MoviesApp.exe
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\MoviesApp.deps.json
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\MoviesApp.runtimeconfig.json
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\MoviesApp.runtimeconfig.dev.json
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\MoviesApp.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\MoviesApp.pdb
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\MoviesApp.Views.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\MoviesApp.Views.pdb
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.csproj.AssemblyReference.cache
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.AssemblyInfoInputs.cache
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.AssemblyInfo.cs
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.csproj.CoreCompileInputs.cache
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.RazorAssemblyInfo.cache
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.RazorAssemblyInfo.cs
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\staticwebassets\MoviesApp.StaticWebAssets.Manifest.cache
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.TagHelpers.input.cache
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.TagHelpers.output.cache
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.RazorCoreGenerate.cache
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Account\SignedOut.cshtml.g.cs
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Index.cshtml.g.cs
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Manage\ChangePassword.cshtml.g.cs
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Manage\Index.cshtml.g.cs
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Manage\SetPassword.cshtml.g.cs
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Manage\_Layout.cshtml.g.cs
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Manage\_ManageNav.cshtml.g.cs
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Create.cshtml.g.cs
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Delete.cshtml.g.cs
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.RazorTargetAssemblyInfo.cache
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.RazorTargetAssemblyInfo.cs
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.Views.pdb
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.csproj.CopyComplete
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.dll
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.pdb
+C:\Users\danan\Desktop\лекции C#\Практика\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.genruntimeconfig.cache
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\MoviesApp.exe
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\MoviesApp.deps.json
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\MoviesApp.runtimeconfig.json
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\MoviesApp.runtimeconfig.dev.json
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\MoviesApp.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\MoviesApp.pdb
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\MoviesApp.Views.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\MoviesApp.Views.pdb
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.csproj.AssemblyReference.cache
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.AssemblyInfoInputs.cache
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.AssemblyInfo.cs
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.csproj.CoreCompileInputs.cache
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.MvcApplicationPartsAssemblyInfo.cache
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.RazorAssemblyInfo.cache
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.RazorAssemblyInfo.cs
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\staticwebassets\MoviesApp.StaticWebAssets.Manifest.cache
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.TagHelpers.input.cache
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.TagHelpers.output.cache
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.RazorCoreGenerate.cache
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Account\SignedOut.cshtml.g.cs
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Actors\Create.cshtml.g.cs
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Actors\Delete.cshtml.g.cs
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Actors\Details.cshtml.g.cs
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Actors\Edit.cshtml.g.cs
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Actors\Index.cshtml.g.cs
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Index.cshtml.g.cs
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Manage\ChangePassword.cshtml.g.cs
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Manage\Index.cshtml.g.cs
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Manage\SetPassword.cshtml.g.cs
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Manage\_Layout.cshtml.g.cs
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Manage\_ManageNav.cshtml.g.cs
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Create.cshtml.g.cs
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Delete.cshtml.g.cs
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.RazorTargetAssemblyInfo.cache
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.RazorTargetAssemblyInfo.cs
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.Views.pdb
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.csproj.CopyComplete
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.dll
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.pdb
+D:\codesC#\MoviesAppWithAuth\MoviesApp\obj\Debug\netcoreapp3.1\MoviesApp.genruntimeconfig.cache
