@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using MoviesApp.Models;
@@ -13,7 +14,7 @@ namespace MoviesApp.Controllers
     public class ActorsApiController : ControllerBase
     {
         private readonly IActorService _service;
-
+        
         public ActorsApiController(IActorService service)
         {
             _service = service;
@@ -53,7 +54,6 @@ namespace MoviesApp.Controllers
             {
                 return BadRequest();
             }
-
             return Ok();
         }
 

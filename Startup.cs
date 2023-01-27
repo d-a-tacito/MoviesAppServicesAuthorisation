@@ -16,6 +16,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using MoviesApp.Controllers;
 using MoviesApp.Data;
+using MoviesApp.Filters;
 using MoviesApp.Middleware;
 using MoviesApp.Models;
 using MoviesApp.Services;
@@ -36,7 +37,6 @@ namespace MoviesApp
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
-
             services.AddDbContext<MoviesContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("MoviesContext")));
             
@@ -62,7 +62,7 @@ namespace MoviesApp
                 app.UseRequestLog();
                 app.UseDeveloperExceptionPage();
             }
-
+            
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
@@ -70,8 +70,8 @@ namespace MoviesApp
 
             app.UseAuthentication();
             app.UseAuthorization();
-            
-            
+
+
             IList<CultureInfo> supportedCultures = new[]
             {
                 new CultureInfo("en-US"),
@@ -86,6 +86,7 @@ namespace MoviesApp
             });
             
             app.UseMiddleware<ActorLogMiddleware>();
+            app.UseActorLog();
 
             app.UseEndpoints(endpoints =>
             {

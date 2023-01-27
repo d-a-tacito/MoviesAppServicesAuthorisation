@@ -12,13 +12,11 @@ namespace MoviesApp.Services
     {
         private readonly MoviesContext _context;
         private readonly IMapper _mapper;
-        
         public MovieService(MoviesContext context, IMapper mapper)
         {
             _context = context;
             _mapper = mapper;
         }
-        
         public MovieDto GetMovie(int id)
         {
             return _mapper.Map<MovieDto>(_context.Movies.FirstOrDefault(m => m.Id == id));
@@ -28,7 +26,6 @@ namespace MoviesApp.Services
         {
             return _mapper.Map<IEnumerable<Movie>, IEnumerable<MovieDto>>(_context.Movies.ToList());
         }
-
         public MovieDto UpdateMovie(MovieDto movieDto)
         {
             if (movieDto.Id == null)
@@ -37,7 +34,6 @@ namespace MoviesApp.Services
                 //лучше всего генерировать ошибки и обрабатывать их на уровне конроллера
                 return null;
             }
-            
             try
             {
                 var movie = _mapper.Map<Movie>(movieDto);
@@ -63,14 +59,12 @@ namespace MoviesApp.Services
                 }
             }
         }
-
         public MovieDto AddMovie(MovieDto movieDto)
         {
             var movie = _context.Add(_mapper.Map<Movie>(movieDto)).Entity;
             _context.SaveChanges();
             return _mapper.Map<MovieDto>(movie);
         }
-
         public MovieDto DeleteMovie(int id)
         {
             var movie = _context.Movies.Find(id);
@@ -80,7 +74,6 @@ namespace MoviesApp.Services
                 //лучше всего генерировать ошибки и обрабатывать их на уровне конроллера
                 return null;
             }
-
             _context.Movies.Remove(movie);
             _context.SaveChanges();
             

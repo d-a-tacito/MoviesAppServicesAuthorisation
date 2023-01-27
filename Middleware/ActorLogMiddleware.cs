@@ -1,15 +1,6 @@
-﻿using System;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Routing;
-using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using Microsoft.Extensions.Logging;
-using MoviesApp.Controllers;
-using MoviesApp.Data;
-using MoviesApp.Middleware;
-using MoviesApp.Models;
-using MoviesApp.ViewModels;
 
 namespace MoviesApp.Middleware
 {

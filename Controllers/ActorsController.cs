@@ -1,17 +1,12 @@
-﻿
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Collections.Generic;
 using AutoMapper;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Mvc.ModelBinding;
 using Microsoft.Extensions.Logging;
-using MoviesApp.Data;
-using MoviesApp.Models;
 using MoviesApp.Services;
 using MoviesApp.Services.Dto;
 using MoviesApp.ViewModels;
-
 namespace MoviesApp.Controllers
 {
     public class ActorsController : Controller
@@ -19,14 +14,12 @@ namespace MoviesApp.Controllers
         private readonly IActorService _service;
         private readonly ILogger<HomeController> _logger;
         private readonly IMapper _mapper;
-
         public ActorsController(ILogger<HomeController> logger, IMapper mapper, IActorService service)
         {
             _service = service;
             _logger = logger;
             _mapper = mapper;
         }
-
         // GET Actors
         [HttpGet]
         [Authorize]
@@ -35,7 +28,6 @@ namespace MoviesApp.Controllers
             var actors = _mapper.Map<IEnumerable<ActorDto>, IEnumerable<ActorViewModel>>(_service.GetAllActors());
             return View(actors);
         }
-
         // Get Actors/Details/5
         [HttpGet]
         [Authorize]
@@ -55,7 +47,6 @@ namespace MoviesApp.Controllers
 
             return View(viewModel);
         }
-
         //Get Actors/Create
         [HttpGet]
         [Authorize(Roles = "Admin")]
@@ -63,7 +54,6 @@ namespace MoviesApp.Controllers
         {
             return View();
         }
-
         // Post Actors/Create
         [HttpPost]
         [Authorize(Roles = "Admin")]
@@ -78,7 +68,6 @@ namespace MoviesApp.Controllers
             }
             return View(inputModel);
         }
-
         [HttpGet]
         [Authorize(Roles = "Admin")]
         // Get: Actors/Edit/5
@@ -88,7 +77,6 @@ namespace MoviesApp.Controllers
             {
                 return NotFound();
             }
-
             var editModel = _mapper.Map<EditActorViewModel>(_service.GetActor((int) id));
             if (editModel == null)
             {
@@ -98,7 +86,6 @@ namespace MoviesApp.Controllers
 
             return View(editModel);
         }
-
         // Post Actors/Edit/5
         [HttpPost]
         [Authorize(Roles = "Admin")]
@@ -117,10 +104,8 @@ namespace MoviesApp.Controllers
 
                 return RedirectToAction(nameof(Index));
             }
-
             return View(editModel);
         }
-
         [HttpGet]
         [Authorize(Roles = "Admin")]
         // Get Actors/Delete/5
@@ -130,16 +115,13 @@ namespace MoviesApp.Controllers
             {
                 return NotFound();
             }
-
-            var deleteActor = _mapper.Map<DeleteActorViewModel>(_service.DeleteActor((int) id));
+            var deleteActor = _mapper.Map<DeleteActorViewModel>(_service.GetActor((int) id));
             if (deleteActor == null)
             {
                 return NotFound();
             }
-
             return View(deleteActor);
         }
-
         //Post: Actors/Delete/5
         [HttpPost, ActionName("Delete")]
         [Authorize(Roles = "Admin")]

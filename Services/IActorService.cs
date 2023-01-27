@@ -1,10 +1,6 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using MoviesApp.Models;
+﻿using System.Collections.Generic;
 using MoviesApp.Services.Dto;
-
 namespace MoviesApp.Services;
-
 public interface IActorService
 {
     ActorDto GetActor(int id);
@@ -12,5 +8,4 @@ public interface IActorService
     ActorDto UpdateActor(ActorDto actorDto);
     ActorDto AddActor(ActorDto actorDto);
     ActorDto DeleteActor(int id);
-
 }

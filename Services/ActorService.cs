@@ -6,9 +6,7 @@ using Microsoft.EntityFrameworkCore;
 using MoviesApp.Data;
 using MoviesApp.Models;
 using MoviesApp.Services.Dto;
-
 namespace MoviesApp.Services;
-
 public class ActorService:IActorService
 {
     private readonly MoviesContext _context;
@@ -19,24 +17,20 @@ public class ActorService:IActorService
         _context = context;
         _mapper = mapper;
     }
-
     public ActorDto GetActor(int id)
     {
         return _mapper.Map<ActorDto>(_context.Actors.FirstOrDefault(a => a.Id == id));
     }
-
     public IEnumerable<ActorDto> GetAllActors()
     {
         return _mapper.Map<IEnumerable<Actor>, IEnumerable<ActorDto>>(_context.Actors.ToList());
     }
-
     public ActorDto UpdateActor(ActorDto actorDto)
     {
         if (actorDto.Id == null)
         {
             return null;
         }
-
         try
         {
             var actor = _mapper.Map<Actor>(actorDto);
@@ -56,14 +50,12 @@ public class ActorService:IActorService
             }
         }
     }
-
     public ActorDto AddActor(ActorDto actorDto)
     {
         var actor = _context.Add(_mapper.Map<Actor>(actorDto)).Entity;
         _context.SaveChanges();
         return _mapper.Map<ActorDto>(actor);
     }
-
     public ActorDto DeleteActor(int id)
     {
         var actor = _context.Actors.Find(id);
@@ -71,12 +63,10 @@ public class ActorService:IActorService
         {
             return null;
         }
-
         _context.Actors.Remove(actor);
         _context.SaveChanges();
         return _mapper.Map<ActorDto>(actor);
     }
-
     private bool ActorExists(int id)
     {
         return _context.Actors.Any(a => a.Id == id);

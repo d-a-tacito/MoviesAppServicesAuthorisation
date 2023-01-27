@@ -22,8 +22,6 @@ namespace MoviesApp.Controllers
             _mapper = mapper;
             _service = service;
         }
-
-       
         // GET: Movies
         [HttpGet]
         [Authorize]
@@ -32,7 +30,6 @@ namespace MoviesApp.Controllers
             var movies = _mapper.Map<IEnumerable<MovieDto>, IEnumerable<MovieViewModel>>(_service.GetAllMovies());
             return View(movies);
         }
-
         // GET: Movies/Details/5
         [HttpGet]
         [Authorize]
@@ -52,7 +49,6 @@ namespace MoviesApp.Controllers
 
             return View(viewModel);
         }
-        
         // GET: Movies/Create
         [HttpGet]
         [Authorize(Roles = "Admin")] 
@@ -60,7 +56,6 @@ namespace MoviesApp.Controllers
         {
             return View();
         }
-
         // POST: Movies/Create
         // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
@@ -77,7 +72,6 @@ namespace MoviesApp.Controllers
             }
             return View(inputModel);
         }
-        
         [HttpGet]
         [Authorize(Roles = "Admin")] 
         // GET: Movies/Edit/5
@@ -87,14 +81,11 @@ namespace MoviesApp.Controllers
             {
                 return NotFound();
             }
-
             var editModel = _mapper.Map<EditMovieViewModel>(_service.GetMovie((int) id));
-            
             if (editModel == null)
             {
                 return NotFound();
             }
-            
             return View(editModel);
         }
 
@@ -121,7 +112,6 @@ namespace MoviesApp.Controllers
 
             return View(editModel);
         }
-        
         [HttpGet]
         [Authorize(Roles = "Admin")] 
         // GET: Movies/Delete/5

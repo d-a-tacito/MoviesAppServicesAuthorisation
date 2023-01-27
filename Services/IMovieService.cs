@@ -1,5 +1,4 @@
 using System.Collections.Generic;
-using MoviesApp.Models;
 using MoviesApp.Services.Dto;
 
 namespace MoviesApp.Services

@@ -1,5 +1,6 @@
 ﻿using System;
 using AutoMapper;
+using Microsoft.AspNetCore.Mvc.Filters;
 
 namespace MoviesApp.Filters;
 using System.ComponentModel.DataAnnotations;
@@ -21,7 +22,6 @@ public class AgeOfActorAttribute : ValidationAttribute
     protected override ValidationResult IsValid(object value, ValidationContext validationContext)
     {
         var birthYear = (DateTime) value;
-        //Console.WriteLine("YearYearYear"+birthYear);
         if (birthYear < DateTime.Now.AddYears(-MaxAge).Date || birthYear > DateTime.Now.AddYears(-MinAge).Date)
         {
             return new ValidationResult(GetErrorMessage());
